@@ -2,11 +2,11 @@
   "name": "grunt-tomcat",
   "version": "0.0.1",
   "description": "Easy start and stop a local Tomcat Server",
-  "repository": "",
+  "repository": "https://github.com/maiis/grunt-tomcat",
   "author": {
     "name": "Emmanuel Vuigner",
     "email": "evuigner@gmail.com",
-    "url": "maiis.me"
+    "url": "http://maiis.me"
   },
   "keywords": [
     "gruntplugin"
