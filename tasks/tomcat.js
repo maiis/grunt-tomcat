@@ -36,6 +36,8 @@ module.exports = function (grunt) {
           '\n Path to bootstrap dose not exist.' +
           'More info: https://github.com/maiis/grunt-tomcat\n'
         );
+      } else {
+        bin = 'sh ' + options.bootstrap;
       }
     } else {
       checkBinary(bin,
